@@ -1,0 +1,122 @@
+product_id,title,category,brand,price,description
+1,Wireless Bluetooth Headphones,Electronics,SonicWave,79.99,Over-ear noise cancelling wireless headphones with 30-hour battery life
+2,Smart Fitness Watch,Electronics,FitPulse,129.99,Fitness smartwatch with heart rate monitor and GPS tracking
+3,4K Ultra HD TV 55 inch,Electronics,VisionMax,499.99,55-inch 4K UHD smart television with HDR support
+4,Gaming Laptop 16GB RAM,Computers,PowerTech,1199.99,High performance gaming laptop with 16GB RAM and RTX graphics
+5,Mechanical Keyboard,Computers,KeyPro,89.99,RBG mechanical keyboard with blue switches
+6,Wireless Mouse,Computers,ClickMate,29.99,Ergonomic wireless mouse with adjustable DPI
+7,USB-C Charging Cable,Accessories,CableCore,12.99,Fast charging USB-C cable 1 meter length
+8,Portable Bluetooth Speaker,Electronics,SoundBeat,59.99,Waterproof portable speaker with deep bass
+9,External Hard Drive 1TB,Computers,DataStore,64.99,1TB USB 3.0 external portable hard drive
+10,Smartphone 128GB,Electronics,NextGen,699.99,128GB smartphone with AMOLED display and dual camera
+11,Cotton T-Shirt Men,Clothing,FashionHub,19.99,Soft cotton crew neck t-shirt for men
+12,Running Shoes Women,Footwear,ActiveStep,89.99,Lightweight running shoes with breathable mesh
+13,Leather Wallet,Accessories,UrbanStyle,39.99,Genuine leather wallet with multiple card slots
+14,Sunglasses UV Protection,Accessories,SunGuard,24.99,Polarized sunglasses with UV400 protection
+15,Backpack 20L,Accessories,TravelPro,49.99,Durable 20 liter backpack for travel and school
+16,Office Chair Ergonomic,Furniture,ComfortSit,199.99,Ergonomic office chair with lumbar support
+17,Standing Desk Adjustable,Furniture,FlexiWork,399.99,Height adjustable electric standing desk
+18,LED Desk Lamp,Home,LightHouse,34.99,Dimmable LED desk lamp with touch control
+19,Stainless Steel Water Bottle,Home,HydroMax,22.99,Insulated stainless steel bottle 750ml
+20,Ceramic Coffee Mug,Home,DailyBrew,14.99,Large ceramic coffee mug 350ml
+21,Electric Toothbrush,Personal Care,SmilePro,59.99,Rechargeable electric toothbrush with 3 modes
+22,Hair Dryer 2000W,Personal Care,StylePro,39.99,Professional 2000W hair dryer with diffuser
+23,Beard Trimmer,Personal Care,GroomEase,29.99,Rechargeable beard trimmer with precision blades
+24,Digital Kitchen Scale,Home,MeasureIt,19.99,Accurate digital food scale up to 5kg
+25,Air Fryer 5L,Home,KitchenPro,129.99,5 liter air fryer with rapid hot air circulation
+26,Blender 700W,Home,BlendMaster,49.99,High speed blender with stainless steel blades
+27,Espresso Coffee Machine,Home,CafePro,249.99,Semi automatic espresso machine with milk frother
+28,Non Stick Frying Pan,Home,ChefLine,29.99,Non stick 28cm frying pan for everyday cooking
+29,Memory Foam Pillow,Home,DreamRest,39.99,Ergonomic memory foam pillow for neck support
+30,Queen Size Bed Frame,Furniture,SleepWell,299.99,Metal queen size bed frame with storage space
+31,Winter Jacket Men,Clothing,NorthPeak,119.99,Waterproof insulated winter jacket for men
+32,Yoga Mat Non Slip,Sports,FlexFit,24.99,Non slip yoga mat with carrying strap
+33,Dumbbell Set 20kg,Sports,IronFlex,79.99,Adjustable dumbbell set total 20kg weight
+34,Treadmill Folding,Sports,RunPro,599.99,Folding treadmill with LCD display and heart sensor
+35,Mountain Bike 26 inch,Sports,TrailBlaze,499.99,26 inch mountain bike with aluminum frame
+36,Camping Tent 4 Person,Outdoor,CampEase,149.99,Waterproof camping tent for four people
+37,Sleeping Bag Lightweight,Outdoor,CampEase,49.99,Lightweight sleeping bag for outdoor camping
+38,BBQ Grill Charcoal,Outdoor,GrillMaster,199.99,Charcoal barbecue grill with temperature control
+39,Laptop Sleeve 15 inch,Accessories,SafeCase,18.99,Protective laptop sleeve for 15 inch laptops
+40,Tablet 10 inch 64GB,Electronics,NextGen,299.99,10 inch tablet with 64GB storage and WiFi
+41,Smart Home Hub,Electronics,HomeSync,129.99,Voice controlled smart home hub compatible with IoT devices
+42,Security Camera WiFi,Electronics,SecureCam,89.99,Indoor WiFi security camera with night vision
+43,Robot Vacuum Cleaner,Home,AutoClean,249.99,Smart robot vacuum with automatic charging
+44,Electric Kettle 1.7L,Home,QuickBoil,29.99,1.7 liter electric kettle with auto shut off
+45,Microwave Oven 20L,Home,HeatWave,119.99,20 liter microwave oven with digital timer
+46,Refrigerator Double Door,Home,CoolTech,899.99,Energy efficient double door refrigerator
+47,Washing Machine 7kg,Home,CleanWash,499.99,7kg front load washing machine
+48,Men's Formal Shirt,Clothing,FashionHub,34.99,Slim fit long sleeve formal shirt
+49,Women's Handbag,Accessories,UrbanStyle,79.99,Leather handbag with adjustable strap
+50,Smart LED Light Bulb,Home,LightHouse,14.99,WiFi smart LED bulb with color change
+51,Portable Power Bank 20000mAh,Electronics,ChargeMax,49.99,High capacity 20000mAh portable charger
+52,Noise Cancelling Earbuds,Electronics,SonicWave,99.99,Wireless earbuds with active noise cancellation
+53,Graphic Drawing Tablet,Computers,ArtPro,89.99,Digital drawing tablet with pressure sensitivity
+54,Wireless Router AC1200,Electronics,NetFast,59.99,Dual band AC1200 wireless router
+55,Smart Door Lock,Home,SecureHome,199.99,Keyless smart door lock with fingerprint access
+56,Baby Stroller Foldable,Baby Care,TinySteps,249.99,Lightweight foldable baby stroller
+57,Baby Monitor Camera,Baby Care,TinySteps,129.99,Video baby monitor with night vision
+58,Pet Dog Bed Large,Pet Supplies,PetComfort,39.99,Large soft dog bed washable cover
+59,Cat Scratching Post,Pet Supplies,PetComfort,29.99,Durable cat scratching post with sisal rope
+60,Aquarium Starter Kit,Pet Supplies,AquaLife,89.99,Complete aquarium starter kit with filter
+61,Car Dash Camera,Automotive,DriveSafe,79.99,Full HD car dash cam with loop recording
+62,Car Vacuum Cleaner,Automotive,AutoClean,39.99,Portable car vacuum cleaner 12V
+63,Motorcycle Helmet Full Face,Automotive,RideSafe,149.99,DOT approved full face motorcycle helmet
+64,Tool Set 100 Pieces,Tools,FixIt,89.99,100 piece household tool kit
+65,Electric Drill 600W,Tools,FixIt,59.99,600W electric drill with variable speed
+66,Lawn Mower Electric,Garden,GreenCut,249.99,Electric lawn mower with adjustable height
+67,Garden Hose 30m,Garden,GreenFlow,34.99,Flexible 30 meter garden hose
+68,Office Desk Wooden,Furniture,WorkSpace,249.99,Modern wooden office desk with drawers
+69,Bookshelf 5 Tier,Furniture,HomeEdge,129.99,5 tier wooden bookshelf storage rack
+70,Wall Clock Modern,Home,TimeStyle,24.99,Modern silent wall clock
+71,Smartphone Tripod Stand,Accessories,PhotoPro,19.99,Adjustable tripod stand for smartphones
+72,DSLR Camera 24MP,Electronics,PhotoPro,699.99,24MP DSLR camera with 18-55mm lens
+73,Action Camera 4K,Electronics,AdventureCam,149.99,4K waterproof action camera
+74,HDMI Cable 2m,Accessories,CableCore,9.99,High speed HDMI cable 2 meters
+75,Monitor 27 inch IPS,Computers,VisionMax,229.99,27 inch IPS monitor full HD
+76,Gaming Chair Recliner,Furniture,GameSeat,199.99,Ergonomic gaming chair with lumbar cushion
+77,Electric Scooter Foldable,Outdoor,UrbanRide,499.99,Foldable electric scooter with 25km range
+78,Travel Suitcase 24 inch,Accessories,TravelPro,119.99,24 inch hard shell travel suitcase
+79,Makeup Brush Set 12pcs,Beauty,GlamUp,29.99,12 piece professional makeup brush set
+80,Perfume Eau de Parfum 100ml,Beauty,Essenza,89.99,Long lasting fragrance 100ml bottle
+81,Face Moisturizer Cream,Beauty,SkinGlow,24.99,Hydrating daily face moisturizer
+82,Shampoo Herbal 500ml,Beauty,NatureCare,14.99,Herbal shampoo for all hair types
+83,Conditioner Repair 500ml,Beauty,NatureCare,14.99,Repairing conditioner for damaged hair
+84,Lipstick Matte Finish,Beauty,GlamUp,12.99,Matte finish long lasting lipstick
+85,Nail Polish Set 6pcs,Beauty,GlamUp,19.99,Set of 6 vibrant nail polish colors
+86,Electric Shaver Men,Personal Care,GroomEase,69.99,Rechargeable electric shaver for men
+87,Hand Mixer 300W,Home,KitchenPro,29.99,300W hand mixer with 5 speeds
+88,Rice Cooker 1.8L,Home,CookEasy,49.99,1.8 liter automatic rice cooker
+89,Pressure Cooker 5L,Home,CookEasy,59.99,5 liter stainless steel pressure cooker
+90,Vacuum Storage Bags 10pcs,Home,SpaceSaver,19.99,Set of 10 vacuum storage bags
+91,Water Filter Pitcher,Home,PureFlow,29.99,Water filter pitcher with replaceable cartridge
+92,Electric Blanket Queen,Home,WarmNest,79.99,Queen size electric heated blanket
+93,Smart Thermostat WiFi,Home,HomeSync,199.99,WiFi enabled smart thermostat
+94,Wireless Presentation Clicker,Computers,ClickMate,24.99,USB wireless presentation remote
+95,Portable SSD 512GB,Computers,DataStore,109.99,512GB high speed portable SSD
+96,Graphics Card 8GB,Computers,PowerTech,399.99,8GB GDDR6 gaming graphics card
+97,Router Mesh System 3 Pack,Electronics,NetFast,249.99,Whole home WiFi mesh system 3 pack
+98,Smartphone Gimbal Stabilizer,Electronics,PhotoPro,119.99,3-axis smartphone gimbal stabilizer
+99,Electric Pressure Washer,Tools,PowerWash,199.99,High pressure washer for outdoor cleaning
+100,Inflatable Air Mattress Queen,Home,SleepWell,89.99,Queen size inflatable air mattress with pump
+101,Wireless Charging Pad,Electronics,ChargeMax,29.99,Fast wireless charging pad for smartphones
+102,Bluetooth Car Adapter,Automotive,DriveSafe,19.99,Bluetooth FM transmitter car adapter
+103,Kitchen Knife Set 8pcs,Home,ChefLine,79.99,8 piece stainless steel kitchen knife set
+104,Smart Scale Body Composition,Personal Care,FitPulse,59.99,Smart body composition scale with app sync
+105,VR Headset Virtual Reality,Electronics,VisionMax,299.99,Virtual reality headset compatible with PC
+106,Portable Projector Mini,Electronics,VisionMax,229.99,Mini portable projector 1080p support
+107,Air Purifier HEPA,Home,AirPure,149.99,HEPA air purifier for allergies
+108,Dehumidifier 20L,Home,AirPure,199.99,20 liter home dehumidifier
+109,Smart Plug WiFi,Home,HomeSync,14.99,WiFi smart plug with voice control
+110,Electric Bike City,Outdoor,UrbanRide,899.99,City electric bike with removable battery
+111,Tablet Kids Edition,Electronics,NextGen,199.99,Kids tablet with parental controls
+112,Wireless Microphone System,Electronics,SoundBeat,149.99,Professional wireless microphone system
+113,Studio Headphones Wired,Electronics,SonicWave,89.99,Wired studio monitoring headphones
+114,Photo Printer Portable,Electronics,PhotoPro,129.99,Portable photo printer for smartphones
+115,Smart Ring Fitness Tracker,Electronics,FitPulse,199.99,Smart ring with fitness and sleep tracking
+116,Adjustable Kettlebell 18kg,Sports,IronFlex,149.99,Adjustable kettlebell up to 18kg
+117,Camping Backpack 40L,Outdoor,TrailBlaze,99.99,40 liter hiking camping backpack
+118,Electric Fireplace Heater,Home,WarmNest,299.99,Electric fireplace heater with remote
+119,Wireless Game Controller,Electronics,GameTech,59.99,Bluetooth wireless game controller
+120,Laptop Cooling Pad,Computers,CoolTech,29.99,Dual fan laptop cooling pad
+
